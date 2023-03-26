@@ -12,6 +12,7 @@ body {
   line-height: 1.5;
   background: url(../img/img.jpg) center / cover no-repeat;
   min-height: 100vh;
+  padding: 0 20px;
 }
 
 #search-box {
@@ -36,7 +37,7 @@ ul {
   list-style: none;
 }
 
-h1 {
+h2 {
   font-size: 40px;
 }
 
